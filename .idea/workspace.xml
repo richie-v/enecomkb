@@ -3,9 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="38476ad8-a6f4-4756-9a76-620ec4102b77" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.tar.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.314b392e.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.314b392e.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.e77a2728.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.e77a2728.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/Etelka-Text-Pro_16187.d060ae65.ttf" afterPath="" />
       <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
+            <state relative-caret-position="-208">
               <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -34,11 +42,9 @@
       <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="-1062">
               <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
-                <element signature="e#605#1474#0" expanded="false" />
-                <element signature="e#1485#11656#0" expanded="false" />
                 <element signature="e#11758#17515#0" expanded="false" />
               </folding>
             </state>
@@ -55,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            <state relative-caret-position="702">
+              <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -120,8 +126,8 @@
         <option value="$PROJECT_DIR$/src/js/api-calls.js" />
         <option value="$PROJECT_DIR$/src/js/api.js" />
         <option value="$PROJECT_DIR$/src/js/api-connector.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -254,18 +260,17 @@
       <workItem from="1519660905155" duration="2564000" />
       <workItem from="1519748795104" duration="326000" />
       <workItem from="1519814001739" duration="76000" />
-      <workItem from="1519907720828" duration="2686000" />
+      <workItem from="1519907720828" duration="3398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17310000" />
+    <option name="totallyTimeSpent" value="18022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="100" y="27" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22291666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -293,13 +298,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/js/api.js</url>
-          <line>19</line>
-          <properties lambdaOrdinal="-1" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
@@ -523,33 +521,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding />
+        <state relative-caret-position="-208">
+          <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="-1062">
           <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <element signature="e#605#1474#0" expanded="false" />
-            <element signature="e#1485#11656#0" expanded="false" />
             <element signature="e#11758#17515#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="702">
+          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
