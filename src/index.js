@@ -95,7 +95,7 @@ class Quotation extends React.Component {
     render() {
         return (
             <div className="quotation">
-                <h1>{parseCSV()}</h1>
+                {/*<h1>{parseCSV()}</h1>*/}
                 <h1 className="compareHeader">Vergelijk uw tarieven</h1>
                 <Product/>
                 <TableComponent data={tableData}/>
@@ -139,6 +139,7 @@ ReactDOM.render(
     document.getElementById('root'),
 );
 
+/*
 function parseCSV() {
     var reader = new FileReader();
     var results = Papa.parse("http://insight.dev.schoolwires.com/HelpAssets/C2Assets/C2Files/C2ImportFamRelSample.csv", {
@@ -148,4 +149,4 @@ function parseCSV() {
         }
     });
     return results;
-}
+}*/
