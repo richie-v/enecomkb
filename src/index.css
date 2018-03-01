@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Etelka';
+  font-style: normal;
+  src: local('Etelka'),
+    url('fonts/Etelka/Etelka-Text-Pro_16187.ttf') format('truetype');
+}
+
+html {
+  font-family: Etelka;
+  background-color: green;
+}
+
+.compareHeader {
+  font-size: 72px;
+  padding-left: 20px;
+  color: white;
+}
+
+.explanationHolder {
+  clear: both;
+}
+
+.explanationBody {
+  padding-left: 20px;
+  color: white;
+  font-size: 14px;
+}
+
+.explanationTitle {
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.productDisclaimer {
+  padding-left: 20px;
+  color: white;
+}
+
+.productName {
+  padding-left: 20px;
+  color: white;
+}
+
+thead {
+  background-color: darkorange;
+  color: white;
+  text-align: left;
+}
+
+th {
+  padding-left: 5px;
+  min-height: 25px;
+}
+
+td {
+  background-color:white;
+  color: black;
+  border-right: 1px solid darkgray;
+  border-left: 1px solid darkgray;
+}
+
+.table-float-left {
+  float: left;
+  margin: 20px;
+  border-collapse: collapse;
+}
+
+.table-float-left tr {
+  border-bottom: 1px solid darkgray;
+}
+
+.table-float-left td {
+  padding-top: 2px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
