@@ -1,9 +1,9 @@
 // INIT
 document.addEventListener('DOMContentLoaded', function () {
-    consoleLog('connectSalesboard');
+    console.log('connectSalesboard');
     window.salesboard.connect({
             onOpen:function(){
-                consoleLog('Connected!');
+                console.log('Connected!');
             }
         }
     );

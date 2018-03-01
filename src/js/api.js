@@ -94,7 +94,7 @@ window.salesboard = {
              * @event function onError a callback that is executed when the action has failed
              */
             open: function(params, events){
-                return window.SalesBoardSocket.send('form.open', { parameters: params, events: events });
+                return win<dow.SalesBoardSocket.send('form.open', { parameters: params, events: events });
             }
         },
         /**

@@ -136,7 +136,7 @@ class Product extends React.Component {
 
 ReactDOM.render(
     <Quotation/>,
-    document.getElementById('root')
+    document.getElementById('root'),
 );
 
 function parseCSV() {
